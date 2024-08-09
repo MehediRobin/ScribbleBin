@@ -6,10 +6,10 @@
 
 This book has classified prepositions in below categories:
 
-** Prepositions of Direction **  
-** Prepositions of Orientation **  
-** Prepositions of Location **  
-** Prepositions of Transportation **  
-** Prepositions of Time **  
-** Non-spatial Prepositions**  
+* **Prepositions of Direction**  
+* **Prepositions of Orientation**  
+* **Prepositions of Location**  
+* **Prepositions of Transportation**  
+* **Prepositions of Time**  
+* **Non-spatial Prepositions**  
 
